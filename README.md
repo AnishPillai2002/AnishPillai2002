@@ -28,25 +28,11 @@ I'm 19-year-old boy on an intention to enhance as a Software Engineer. I love co
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
+My SQl
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;
-
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  
-
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
-
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
-| --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
@@ -62,16 +48,11 @@ I'm 19-year-old boy on an intention to enhance as a Software Engineer. I love co
 
 </details>
 
-## My Github Activity ⚡
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
-
-<!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
+[![](https://github.com/AnishPillai2002/Simple-C-programs?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
