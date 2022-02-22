@@ -9,7 +9,7 @@ I'm 19-year-old boy on an intention to enhance as a Software Engineer. I love co
 - 💬 Ask me about Business.
 - 📫 How to reach me: [anishpillai2002@gmail.com](mailto:anishpillai2002@gmail.com)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of Elon MUsk
+- ⚡ Fun fact: Big fan of Elon Musk
 
 <div align="center">
 <a href="https://www.techanalysisblog.com/" target="_blank"><img src="https://1.bp.blogspot.com/-WZopU8y8Byg/YULtV9GHe3I/AAAAAAAAAGg/QuBp3uTCAGAideA0xWv-RFvyUAMTgf6RACLcBGAsYHQ/s220/Tech%2BAnalysis%2BBlog.jpg" height="45" width="170" alt="garbinmarcelo" /></a></div>
