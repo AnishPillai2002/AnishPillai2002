@@ -24,12 +24,7 @@ I'm 19-year-old boy on an intention to enhance as a Software Engineer. I love co
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
-
-<img src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mysql.com%2Fabout%2Flegal%2Flogos.html&psig=AOvVaw1ZftKvXESu_pxMxRuFQVmi&ust=1645635319773000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjdgLXjk_YCFQAAAAAdAAAAABAD' height='40'/>&nbsp;
-
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp;
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
