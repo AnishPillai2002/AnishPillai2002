@@ -32,7 +32,7 @@ My SQl
 
 
 
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+
 
 
 
