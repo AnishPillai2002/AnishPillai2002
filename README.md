@@ -40,11 +40,6 @@ My SQl
 
 
 
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g)
 
 
 ------
