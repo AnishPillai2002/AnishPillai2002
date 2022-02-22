@@ -44,7 +44,7 @@ My SQl
 
 
 
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g)
+[![Spotify](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g)
 
 
 ------
