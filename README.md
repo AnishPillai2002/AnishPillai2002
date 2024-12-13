@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anish Pillai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Development Engineer (SDE) from India, driven by a love for crafting efficient, scalable, and user-centric solutions.</h3>
 <img align="right" width="400"  alt="Coding" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Express Js**
-
-- 📝 I regularly write articles on [quora](quora)
-
+- 🚀 Currently striving to become a **Software Development Engineer (SDE)**
+- 
 - 💬 Ask me about **Mobile app development, Web development, Writing clean & Maintainable Code, Business Development, Physical Fitness or Wellness**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anish-pillai2002/**
