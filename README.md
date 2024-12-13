@@ -3,7 +3,7 @@
 <img align="right" width="400"  alt="Coding" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🚀 Currently striving to become a **Software Development Engineer (SDE)**
-- 
+
 - 💬 Ask me about **Mobile app development, Web development, Writing clean & Maintainable Code, Business Development, Physical Fitness or Wellness**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anish-pillai2002/**
