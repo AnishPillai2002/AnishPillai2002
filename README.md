@@ -6,7 +6,11 @@
 
 - 💬 Ask me about **Mobile app development, Web development, Writing clean & Maintainable Code, Business Development, Physical Fitness or Wellness**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anish-pillai2002/**
+- 📫 You can reach me through my LinkedIn, visit my personal portfolio, or email me directly:
+- 
+- [LinkedIn](https://www.linkedin.com/in/anish-pillai2002/)
+- [Portfolio](https://anishpillai.netlify.app)
+- [Email](mailto:anishpillaiofficial@gmail.com)
 
 - ⚡ Fun fact **I wear the same or similar outfits daily to reduce decision fatigue and optimize my focus on more important matters.**
 
